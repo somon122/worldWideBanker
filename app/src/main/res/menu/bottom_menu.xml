@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_Exam"
+        android:orderInCategory="100"
+        android:title="Exam"
+        android:icon="@drawable/examm"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Question"
+        android:orderInCategory="100"
+        android:title="Question"
+        android:icon="@drawable/question"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Quiz"
+        android:orderInCategory="100"
+        android:title="Quiz"
+        android:icon="@drawable/quiz"
+        app:showAsAction="never" />
+
+
+</menu>
